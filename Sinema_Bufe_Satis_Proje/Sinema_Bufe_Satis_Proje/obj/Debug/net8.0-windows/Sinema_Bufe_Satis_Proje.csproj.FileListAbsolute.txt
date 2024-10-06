@@ -1,0 +1,17 @@
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.exe
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.deps.json
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.runtimeconfig.json
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.dll
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.pdb
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.Form1.resources
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.Properties.Resources.resources
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.csproj.GenerateResource.cache
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.AssemblyInfoInputs.cache
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.AssemblyInfo.cs
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.dll
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\refint\Sinema_Bufe_Satis_Proje.dll
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.pdb
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Proje.genruntimeconfig.cache
+C:\Users\Agit\Desktop\Udemy kursları\Sinema_Bufe_Satis_Proje\Sinema_Bufe_Satis_Proje\obj\Debug\net8.0-windows\ref\Sinema_Bufe_Satis_Proje.dll

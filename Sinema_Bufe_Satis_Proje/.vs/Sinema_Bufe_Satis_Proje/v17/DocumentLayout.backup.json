@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agit\\Desktop\\Udemy kurslar\u0131\\Sinema_Bufe_Satis_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820B4374-BF3F-402E-A169-9524AA750E86}|Sinema_Bufe_Satis_Proje\\Sinema_Bufe_Satis_Proje.csproj|C:\\Users\\Agit\\Desktop\\Udemy kurslar\u0131\\Sinema_Bufe_Satis_Proje\\sinema_bufe_satis_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{820B4374-BF3F-402E-A169-9524AA750E86}|Sinema_Bufe_Satis_Proje\\Sinema_Bufe_Satis_Proje.csproj|solutionrelative:sinema_bufe_satis_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820B4374-BF3F-402E-A169-9524AA750E86}|Sinema_Bufe_Satis_Proje\\Sinema_Bufe_Satis_Proje.csproj|c:\\users\\agit\\desktop\\udemy kurslar\u0131\\sinema_bufe_satis_proje\\sinema_bufe_satis_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B4374-BF3F-402E-A169-9524AA750E86}|Sinema_Bufe_Satis_Proje\\Sinema_Bufe_Satis_Proje.csproj|solutionrelative:sinema_bufe_satis_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Agit\\Desktop\\Udemy kurslar\u0131\\Sinema_Bufe_Satis_Proje\\Sinema_Bufe_Satis_Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Sinema_Bufe_Satis_Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\Agit\\Desktop\\Udemy kurslar\u0131\\Sinema_Bufe_Satis_Proje\\Sinema_Bufe_Satis_Proje\\Form1.cs",
+              "RelativeToolTip": "Sinema_Bufe_Satis_Proje\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:44:12.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agit\\Desktop\\Udemy kurslar\u0131\\Sinema_Bufe_Satis_Proje\\Sinema_Bufe_Satis_Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Sinema_Bufe_Satis_Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\Agit\\Desktop\\Udemy kurslar\u0131\\Sinema_Bufe_Satis_Proje\\Sinema_Bufe_Satis_Proje\\Form1.cs [Design]",
+              "RelativeToolTip": "Sinema_Bufe_Satis_Proje\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:04:05.756Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
